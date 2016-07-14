@@ -1,0 +1,22 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "skills.json",
+  "main": "https://github.com/victir/skills",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victir/skills.git"
+  },
+  "keywords": [
+    "skills"
+  ],
+  "author": "victir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victir/skills/issues"
+  },
+  "homepage": "https://github.com/victir/skills#readme"
+}
